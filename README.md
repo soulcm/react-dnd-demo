@@ -1,2 +1,7 @@
 # react-dnd-demo
-react-dnd
+
+```
+npm i
+
+npm run dev
+```
